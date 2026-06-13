@@ -1,4 +1,4 @@
-package oop_nim_nama.week04
+package oop_00000130600_RioRivaldi_week04
 
 class Developer(
     name: String,

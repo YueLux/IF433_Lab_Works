@@ -1,4 +1,4 @@
-package oop_00000130143_SHIFFAQALBIANALFARYSI.week08
+package oop_00000130600_RioRivaldi_Week08
 
 object DatabaseMock {
     fun findUser(id: Int): UserProfile? {

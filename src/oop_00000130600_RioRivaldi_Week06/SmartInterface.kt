@@ -1,4 +1,4 @@
-package oop_00000130143_SHIFFAQALBIANALFARYSI.week06
+package oop_00000130600_RioRivaldi_Week06
 
 interface SmartDevice {
     val id: String

@@ -1,4 +1,4 @@
-package oop_00000130143_SHIFFAQALBIANALFARYSI.week07
+package oop_00000130600_RioRivaldi_Week07
 
 enum class ItemRarity(val dropChance: Int) {
     COMMON(70),

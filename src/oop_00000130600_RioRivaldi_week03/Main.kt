@@ -1,4 +1,4 @@
-package oop_00000130600_RioRivaldi.week03
+package oop_00000130600_RioRivaldi_week03
 
 fun main() {
 

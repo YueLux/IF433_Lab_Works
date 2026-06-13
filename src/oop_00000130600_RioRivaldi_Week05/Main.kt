@@ -1,4 +1,4 @@
-package oop_00000130143_SHIFFAQALBIANALFARYSI.week05
+package oop_00000130600_RioRivaldi_week05
 
 /*fun main() {
     val dosen1 = Dosen(nama = "Pak Alex", nidn = "0123456")
