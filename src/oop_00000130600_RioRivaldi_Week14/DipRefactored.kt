@@ -1,3 +1,5 @@
+package oop_00000130600_RioRivaldi_Week14
+
 interface Database {
     fun query(sql: String): List<String>
 }

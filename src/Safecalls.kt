@@ -1,4 +1,4 @@
-package oop_00000130600_RioRivaldi_Week13
+package oop_00000130600_RioRivaldi
 
 class  Alamat(val kota:String?)
 class  Mahasiswa(val address: Alamat)

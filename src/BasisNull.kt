@@ -1,4 +1,4 @@
-package oop_00000130600_RioRivaldi_Week13
+package oop_00000130600_RioRivaldi
 
 class profile_page(val idprofile: String?, val statusonline: String?) {
     fun ganti_foto(filePhoto: String?) {

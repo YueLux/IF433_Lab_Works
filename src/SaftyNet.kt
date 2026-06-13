@@ -1,4 +1,4 @@
-package oop_00000130600_RioRivaldi_Week13
+package oop_00000130600_RioRivaldi
 
 fun main() {
     val nama: String = "Bian"
