@@ -37,4 +37,4 @@ fun main() {
 
     println("\n=== Matikan Semua Perangkat ===")
     hub.turnOffAllSwitches()
-}
+}\
